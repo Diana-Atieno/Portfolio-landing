@@ -1,7 +1,7 @@
 # Portfolio-landing
 
 - This is the week 1 IP for the week one prep content
-(https://i.postimg.cc/Xqq1VtZ9/Screenshot-from-2021-10-12-15-36-32.png)(https://postimg.cc/SY0fdTfK) 
+[![landing.png](https://i.postimg.cc/Xqq1VtZ9/Screenshot-from-2021-10-12-15-36-32.png)](https://postimg.cc/SY0fdTfK) 
 
 
 
