@@ -1,16 +1,20 @@
-# Project-Name
+# Portfolio-landing
 
-Write the project description here...
+- This is the week 1 IP for the week one prep content
+(https://i.postimg.cc/Xqq1VtZ9/Screenshot-from-2021-10-12-15-36-32.png)(https://postimg.cc/SY0fdTfK) 
+
 
 
 ## Technologies Used
 
-- Add technologies you may have used in the project e.g HTML & CSS (Bootstrap)
+HTML & CSS (Bootstrap)
 
 
 ##### Setup Instructions and Installation
 
-- Explain steps to clone, install and run the application on a local machine.
+- Clone this repository to a location in your file system: https://github.com/Diana-Atieno/Portfolio-landing.git 
+- Open terminal command line.
+- Navigate to the root folder of the application: cd portfolio-landing.
 
 
 ## Development
@@ -37,7 +41,7 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 ### License
 
 *MIT*
-Copyright (c) 2021 **Your name**
+Copyright (c) 2021 Diana Atieno
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
